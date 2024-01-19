@@ -1,11 +1,11 @@
 # Task_1
-Task 1
+
 Here is a catalogue with 3 products.
 Product Name : Price
 Product A : $20
 Product B : $40
 Product C : $50
-Discount Rules:
+# Discount Rules:
 ● "flat_10_discount": If cart total exceeds $200, apply a flat $10 discount on the cart total.
 ● "bulk_5_discount": If the quantity of any single product exceeds 10 units, apply a 5% discount on
 that item's total price.
@@ -15,13 +15,14 @@ than 15, then apply a 50% discount on products which are above 15 quantity. The 
 quantities have the original price and units above 15 will get a 50% discount.
 Note: Only one rule can be applied per purchase. If multiple discounts are applicable, the program
 calculates the discount amount for each rule and applies the most beneficial one for customer.
-Fees:
+# Fees:
 ● Gift wrap fee: $1 per unit.
 ● Shipping fee: 10 units can be packed in one package, and the shipping fee for each package is
 $5.
 Program
 The program will ask the quantity of each product. The program will also ask if that product is wrapped
 as a gift?
+# output 
 Then the program will show / output below details.
 ● The product name, quantity & total amount of that product.
 ● Subtotal
